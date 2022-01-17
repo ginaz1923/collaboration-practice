@@ -6,7 +6,7 @@
 #### 6
 #### 7 :D. 
 #### 8
-#### 9 Github is really good
+#### 9 Github is really awesome
 #### 10
 #### 11 Custom message be like omg!!!
 #### 12
