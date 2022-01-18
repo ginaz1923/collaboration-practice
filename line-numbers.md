@@ -8,11 +8,7 @@
 #### 8
 #### 9 Github is really awesome
 #### 10
-<<<<<<< HEAD
 #### 11 Why do I have so much work due tomorrow? 
-=======
-#### 11 This message is really cool
->>>>>>> 389a61fa602fda2bab443980541b9b4f02f6a3b8
 #### 12
 #### 13
 #### 14
